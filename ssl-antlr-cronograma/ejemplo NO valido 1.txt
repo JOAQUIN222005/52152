@@ -1,3 +1,0 @@
-10 9 6 3 3 /usr/bin/check
-
-no es valido porque aparece un token inesperado "10"
