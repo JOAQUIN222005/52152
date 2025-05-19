@@ -1,0 +1,3 @@
+9 6 3 3 /usr/bin/check
+
+no es valido porque se necesita e 5 elementos 
